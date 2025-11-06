@@ -1,6 +1,6 @@
 {
     "name": "xComfort-hajozi",
-    "version": "0.68-b1",
+    "version": "0.68-b2",
     "slug": "xcomfort-hajozi",
     "description": "Eaton xComfort to (3rd party) MQTT gateway - test from hajozi",
     "url": "https://github.com/karloygard/hassio-addons",
